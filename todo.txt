@@ -1,0 +1,50 @@
+Principais informações.
+
+-----------------------------------------------------------
+Site:
+- Visualizar fretes
+
+
+caminhoneiro:
+- Cadastrar-se no site
+- Visualizar fretes
+- Verificar perfil
+	- Alterar dados da conta
+	- Receber recomendações
+
+
+
+
+Administrador:
+- Login
+- Verificar estatística (qtd de usuários, lugar com maior quantidade de fretes).
+- Moderar fretes
+
+
+Empresa:
+
+- Cadastrar-se no site
+- Publicar frete
+- Verificar perfil
+	- Alterar dados da conta
+	- Receber e fazer recomendações
+
+-----------------------------------------------------------
+
+
+Config do Banco de dados:
+
+Models:
+
+Caminhoneiro
+Admin
+
+
+
+-----------------------------------------------------------
+
+Diagrama dos modelos Banco de Dados:
+
+$ rails erd
+
+gera um .pdf com os models
