@@ -47,4 +47,4 @@ Diagrama dos modelos Banco de Dados:
 
 $ rails erd
 
-gera um .pdf com os models
+gera um .pdf com os modelss
